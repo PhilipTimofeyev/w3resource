@@ -1,0 +1,1 @@
+puts "Current Date and Time: #{Time.now.strftime("%d/%m/%Y %I:%M")}"
